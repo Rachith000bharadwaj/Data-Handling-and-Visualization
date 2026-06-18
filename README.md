@@ -4,6 +4,11 @@ This repository contains a full-stack Data Handling and Visualization project fo
 
 The project demonstrates the complete workflow of collecting structured data, training a classification model, saving reusable model artifacts, exposing predictions through an API, and presenting results through an interactive visualization dashboard.
 
+## Project Report
+
+- [View the complete project report](Report.pdf)
+- [View the editable LaTeX source](Report.tex)
+
 ## Project Overview
 
 The system predicts restaurant ordering behavior using a small restaurant order dataset. The prediction is based on four main input factors:
@@ -174,4 +179,3 @@ This keeps the repository clean and easy to clone.
 ## Project Purpose
 
 This project was built for the Data Handling and Visualization course. It shows how raw tabular data can be transformed into a working predictive application with visual insights. The project connects data handling, model training, backend integration, and frontend visualization into one understandable full-stack workflow.
-
